@@ -12,6 +12,7 @@ The [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ul
 
 - **Fraud rate by hour of day:** fraud rate spikes sharply between **2–4 AM**, reaching roughly 10x the overall average fraud rate during those hours — likely reflecting lower transaction volume and less active monitoring during low-traffic overnight hours.
 - This insight was used to engineer a new `Hour` feature (extracted from the raw `Time` column, which only represents seconds elapsed since the first transaction) as an additional model input.
+<img width="979" height="526" alt="WhatsApp Image 2026-09-11 at 18 30 59" src="https://github.com/user-attachments/assets/f6a17b5e-098f-4ba3-bb42-981395ff4dc4" />
 
 ## Approach
 
