@@ -57,6 +57,8 @@ Confusion matrix:
 [[71069    10]
  [   28    95]]
 ```
+<img width="636" height="551" alt="WhatsApp Image 2026-09-13 at 18 46 02" src="https://github.com/user-attachments/assets/01d885ee-b5c0-44bb-9247-2d42a568928a" />
+
 
 Out of 123 real fraud cases in the test set, the model correctly identified **95** while missing **28**, with only **10 false alarms** among over 71,000 legitimate transactions.
 
